@@ -13,6 +13,7 @@ npm install
 
 ```TypeScript
 export function getStudentsData(): IStudentData[] {
+
     /**
      * Данные студентов которые нужно передать:
      *
